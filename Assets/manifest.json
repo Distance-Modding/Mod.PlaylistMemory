@@ -1,0 +1,9 @@
+{
+    "name": "PlaylistMemory",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Distance-Modding/Mod.PlaylistMemory",
+    "description": "Remembers which playlist you start and takes you back to it when you return to the main menu.",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+  }
